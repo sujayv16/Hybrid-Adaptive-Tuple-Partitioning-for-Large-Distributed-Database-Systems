@@ -22,7 +22,7 @@ The project investigates how modern distributed databases can efficiently partit
 To better illustrate the concepts discussed in this project, we also developed a simulator that demonstrates tuple partitioning, routing, workload drift, and adaptive migration behavior in a distributed database environment.
 
 **Simulator Repository:**
-https://github.com/YOUR_USERNAME/SIMULATOR_REPO
+https://github.com/sujayv16/Hybrid-Adaptive-Tuple-Partitioning-simulator
 
 ### Included Documents
 
